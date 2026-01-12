@@ -16,14 +16,6 @@
 - 🛢️ Node.js | Express.js | MongoDB  
 - 🔧 Git | GitHub  
 
----
-
-### 📈 GitHub Stats
-
-![Abhi-navvvv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi-navvvv&show_icons=true&theme=radical)
-
----
-
 
 
 <!---
