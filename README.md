@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-- 🌐 HTML | Python | JavaScript | React.js  
+- 🌐 HTML | CSS | JavaScript | React.js  
 - 🧠 Web3 | Solidity | Ethereum  
 - 🛢️ Node.js | Express.js | MongoDB  
 - 🔧 Git | GitHub  
