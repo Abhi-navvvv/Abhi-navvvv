@@ -7,18 +7,3 @@
 🔗 Connect with me: [LinkedIn](https://www.linkedin.com/in/abhinav-singh-05813130a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 💬 Pronouns: He/Him
 
----
-
-### 🛠️ Tech Stack
-
-- 🌐 HTML | CSS | JavaScript | React.js  
-- 🧠 Web3 | Solidity | Ethereum  
-- 🛢️ Node.js | Express.js | MongoDB  
-- 🔧 Git | GitHub  
-
-
-
-<!---
-Abhi-navvvv/Abhi-navvvv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
